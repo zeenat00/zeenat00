@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @zeenat00
-CALCULATOR APP CODE ;
-
+**CALCULATOR APP CODE
+**
 import inquirer from 'inquirer';
 
 // Function to perform addition
